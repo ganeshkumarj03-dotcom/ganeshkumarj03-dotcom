@@ -4,8 +4,6 @@
 
 ### 🤖 AI & Data Science | 📊 Data Analyst | 🌐 Web Developer
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
 <p>
 Building intelligent, data-driven and scalable solutions for real-world challenges.
 </p>
