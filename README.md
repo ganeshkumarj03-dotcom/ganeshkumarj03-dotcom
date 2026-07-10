@@ -20,10 +20,6 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 </div>
 ---
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
----
-
 ## 🚀 About Me
 
 🤖 AI & Data Science enthusiast with a strong technical foundation and hands-on experience in building **AI-powered, data-driven and real-world applications**.
