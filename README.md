@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ganesh Kumar J
+# 👋 Hi, I'm GaneshKumar J
 
 ### 🤖 AI Enthusiast | 📊 Data Analyst | 🌐 Web Developer
 
@@ -30,7 +30,7 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 
 <div align="center">
 
-<img width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img width="420" height="320" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 </div>
 
@@ -110,21 +110,11 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 
 # 🛠️ Technologies & Development Stack
 
-## 👨‍💻 Programming Languages
-
-<p align="left">
+<p align="center">
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/python--v1.png" alt="Python"/>
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="Java"/>
-
-</p>
-
-## 📊 Data Analytics & Visualization
-
-<p align="left">
-
-<img width="50" height="50" src="https://img.icons8.com/color/96/python--v1.png" alt="Python"/>
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/pandas.png" alt="Pandas"/>
 
@@ -134,41 +124,19 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/mysql-logo.png" alt="MySQL"/>
 
-</p>
-
-## 🌐 Frontend Development
-
-<p align="left">
-
 <img width="50" height="50" src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML5"/>
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/css3.png" alt="CSS3"/>
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/react-native.png" alt="React"/>
 
-</p>
-
-## ⚙️ Backend & API Development
-
-<p align="left">
-
 <img width="50" height="50" src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js"/>
 
 <img width="50" height="50" src="https://img.icons8.com/ios/100/express-js.png" alt="Express.js"/>
 
-<img width="50" height="50" src="https://img.icons8.com/color/96/fastapi.png" alt="FastAPI"/>
-
 <img width="50" height="50" src="https://img.icons8.com/color/96/firebase.png" alt="Firebase"/>
 
-</p>
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p align="left">
-
 <img width="50" height="50" src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="Artificial Intelligence"/>
-
-<img width="50" height="50" src="https://img.icons8.com/color/96/pytorch.png" alt="PyTorch"/>
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow"/>
 
@@ -178,29 +146,13 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 
 <img width="50" height="50" src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="LLM"/>
 
-<img width="50" height="50" src="https://img.icons8.com/color/96/natural-language-processing.png" alt="NLP"/>
-
 <img width="50" height="50" src="https://img.icons8.com/fluency/96/bot.png" alt="AI Agents"/>
-
-</p>
-
-## 🗄️ Database Technologies
-
-<p align="left">
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/mysql-logo.png" alt="MySQL"/>
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/mongodb.png" alt="MongoDB"/>
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/postgreesql.png" alt="PostgreSQL"/>
-
-<img width="50" height="50" src="https://img.icons8.com/color/96/firebase.png" alt="Firebase"/>
-
-</p>
-
-## 🧰 Development Tools & Platforms
-
-<p align="left">
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/git.png" alt="Git"/>
 
@@ -377,22 +329,17 @@ Collaborated in building real-world AI solutions including:
 
 <br>
 
-<a href="https://www.linkedin.com/in/ganeshkumar-j">
-<img width="55" height="55" src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://ganeshkumarj03.netlify.app">
-<img width="55" height="55" src="https://img.icons8.com/fluency/96/domain.png" alt="Portfolio"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:ganeshkumarj03@gmail.com">
 <img width="55" height="55" src="https://img.icons8.com/color/96/gmail-new.png" alt="Email"/>
 </a>
 
+<a href="https://www.linkedin.com/in/ganeshkumar-j">
+<img width="55" height="55" src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn"/>
+</a>
+
+<a href="https://ganeshkumarj03.netlify.app">
+<img width="55" height="55" src="https://img.icons8.com/fluency/96/domain.png" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -400,7 +347,7 @@ Collaborated in building real-world AI solutions including:
 
 <div align="center">
 
-### 💡 "Transforming ideas into intelligent, data-driven and real-world solutions."
+### 💡 Transforming ideas into intelligent, data-driven and real-world solutions.
 
 ### ⭐ Explore my repositories and follow my journey in AI, Data and Web Development.
 
