@@ -9,18 +9,18 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 </p>
 
 <a href="https://ganeshkumarj03.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-black?style=for-the-badge&logo=netlify" />
 </a>
 
 <a href="https://www.linkedin.com/in/ganeshkumar-j">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:ganeshkumarj03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
+---
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ---
 
@@ -34,13 +34,7 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 
 📊 Passionate about **Data Analytics and Data-Driven Decision Making**, with experience using Python, Pandas, NumPy and Tableau to analyse and understand data.
 
-🌐 Skilled in developing modern web applications and backend systems using **React.js, Node.js, Express.js, FastAPI and modern database technologies**.
-
 🚀 Built multiple real-world projects in **AI, intelligent automation, safety technology, recommendation systems and computer vision**.
-
-🏆 **2nd Prize Winner** for developing Q-SAGE AI — an intelligent Question Bank and Question Paper Generation System.
-
-🎯 Strong leadership and team coordination experience, including leading technical events and coordinating a **10+ member team**.
 
 💡 I believe technology becomes powerful when **Artificial Intelligence, Data and Software Engineering work together to solve meaningful real-world problems**.
 
@@ -53,14 +47,13 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 <td align="center">🤖<br><b>Artificial Intelligence</b></td>
 <td align="center">📊<br><b>Data Analytics</b></td>
 <td align="center">🌐<br><b>Web Development</b></td>
-<td align="center">🧠<br><b>Generative AI</b></td>
 </tr>
 
 <tr>
-<td align="center">⚙️<br><b>Backend Development</b></td>
+<td align="center">🧠<br><b>Generative AI</b></td>
 <td align="center">🔍<br><b>Machine Learning</b></td>
 <td align="center">💬<br><b>NLP & RAG</b></td>
-<td align="center">👁️<br><b>Computer Vision</b></td>
+
 </tr>
 </table>
 
@@ -78,12 +71,12 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://icons8.com/icon/xSkewUSqtErH/pandas" />
+<img src="https://icons8.com/icon/aR9CXyMagKIS/numpy" />
+<img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" />
+<img src="https://icons8.com/icon/IKEeGrkdNNMS/financial-growth-analysis" />
 </p>
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Data%20Driven%20Insights-blue?style=for-the-badge)
 
 ## 🌐 Web Development
 
@@ -253,36 +246,6 @@ Collaborated in building real-world AI solutions including:
 
 ---
 
-# 📜 Certifications
-
-☁️ **AWS Academy Graduate — Generative AI Foundations**
-
-🤖 **Databricks — Get Started with Generative AI**
-
-🌐 **Full Stack Development with MERN Stack**
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganeshkumarj03-dotcom&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumarj03-dotcom&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ganeshkumarj03-dotcom&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
 # 🌱 Currently Exploring
 
 🤖 **Intelligent AI Agents**
@@ -308,15 +271,12 @@ Collaborated in building real-world AI solutions including:
 <br>
 
 <a href="https://www.linkedin.com/in/ganeshkumar-j">
-<img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Kumar-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://ganeshkumarj03.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-black?style=for-the-badge&logo=netlify" />
 </a>
 
 <a href="mailto:ganeshkumarj03@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
