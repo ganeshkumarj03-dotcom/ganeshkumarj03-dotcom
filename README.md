@@ -2,22 +2,38 @@
 
 # 👋 Hi, I'm Ganesh Kumar J
 
-### 🤖 AI & Data Science | 📊 Data Analyst | 🌐 Web Developer
+### 🤖 AI Enthusiast | 📊 Data Analyst | 🌐 Web Developer
 
 <p>
 Building intelligent, data-driven and scalable solutions for real-world challenges.
 </p>
 
-<a href="https://ganeshkumarj03.netlify.app">
+<p align="center">
+
+<a href="mailto:ganeshkumarj03@gmail.com">
+<img width="45" height="45" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ganeshkumar-j">
+<img width="45" height="45" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:ganeshkumarj03@gmail.com">
+<a href="https://ganeshkumarj03.netlify.app">
+<img width="45" height="45" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
 </a>
+
+</p>
 
 </div>
+
+---
+
+<div align="center">
+
+<img width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -36,71 +52,166 @@ Building intelligent, data-driven and scalable solutions for real-world challeng
 
 ---
 
-## 🧠 Areas of Expertise
+# 🧠 Areas of Expertise
+
+<div align="center">
 
 <table>
+
 <tr>
-<td align="center">🤖<br><b>Artificial Intelligence</b></td>
-<td align="center">📊<br><b>Data Analytics</b></td>
-<td align="center">🌐<br><b>Web Development</b></td>
+
+<td align="center" width="220">
+🤖
+<br>
+<b>Artificial Intelligence</b>
+</td>
+
+<td align="center" width="220">
+📊
+<br>
+<b>Data Analytics</b>
+</td>
+
+<td align="center" width="220">
+🌐
+<br>
+<b>Web Development</b>
+</td>
+
 </tr>
 
 <tr>
-<td align="center">🧠<br><b>Generative AI</b></td>
-<td align="center">🔍<br><b>Machine Learning</b></td>
-<td align="center">💬<br><b>NLP & RAG</b></td>
+
+<td align="center" width="220">
+🧠
+<br>
+<b>Generative AI</b>
+</td>
+
+<td align="center" width="220">
+🔍
+<br>
+<b>Machine Learning</b>
+</td>
+
+<td align="center" width="220">
+💬
+<br>
+<b>NLP & RAG</b>
+</td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🛠️ Technologies & Development Stack
 
-## 💻 Programming Languages
+## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java" />
+<p align="left">
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/python--v1.png" alt="Python"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="Java"/>
+
 </p>
 
-## 📊 Data Analytics
+## 📊 Data Analytics & Visualization
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<img src="https://icons8.com/icon/xSkewUSqtErH/pandas" />
-<img src="https://icons8.com/icon/aR9CXyMagKIS/numpy" />
-<img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" />
-<img src="https://icons8.com/icon/IKEeGrkdNNMS/financial-growth-analysis" />
+<p align="left">
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/python--v1.png" alt="Python"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/pandas.png" alt="Pandas"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/numpy.png" alt="NumPy"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/tableau-software.png" alt="Tableau"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/mysql-logo.png" alt="MySQL"/>
+
 </p>
 
+## 🌐 Frontend Development
 
-## 🌐 Web Development
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi" />
+<img width="50" height="50" src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML5"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/css3.png" alt="CSS3"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/react-native.png" alt="React"/>
+
+</p>
+
+## ⚙️ Backend & API Development
+
+<p align="left">
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js"/>
+
+<img width="50" height="50" src="https://img.icons8.com/ios/100/express-js.png" alt="Express.js"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/fastapi.png" alt="FastAPI"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/firebase.png" alt="Firebase"/>
+
 </p>
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<p align="left">
+
+<img width="50" height="50" src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="Artificial Intelligence"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/pytorch.png" alt="PyTorch"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/opencv.png" alt="OpenCV"/>
+
+<img width="50" height="50" src="https://img.icons8.com/fluency/96/chatgpt.png" alt="Generative AI"/>
+
+<img width="50" height="50" src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="LLM"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/natural-language-processing.png" alt="NLP"/>
+
+<img width="50" height="50" src="https://img.icons8.com/fluency/96/bot.png" alt="AI Agents"/>
+
 </p>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-LLM-purple?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
+## 🗄️ Database Technologies
 
-## 🗄️ Databases
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+<img width="50" height="50" src="https://img.icons8.com/color/96/mysql-logo.png" alt="MySQL"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/mongodb.png" alt="MongoDB"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/postgreesql.png" alt="PostgreSQL"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/firebase.png" alt="Firebase"/>
+
 </p>
 
-## ⚙️ Development Tools
+## 🧰 Development Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
+<p align="left">
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/git.png" alt="Git"/>
+
+<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/100/github.png" alt="GitHub"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/android-studio--v3.png" alt="Android Studio"/>
+
+<img width="50" height="50" src="https://img.icons8.com/color/96/figma--v1.png" alt="Figma"/>
+
 </p>
 
 ---
@@ -267,13 +378,21 @@ Collaborated in building real-world AI solutions including:
 <br>
 
 <a href="https://www.linkedin.com/in/ganeshkumar-j">
+<img width="55" height="55" src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://ganeshkumarj03.netlify.app">
+<img width="55" height="55" src="https://img.icons8.com/fluency/96/domain.png" alt="Portfolio"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:ganeshkumarj03@gmail.com">
+<img width="55" height="55" src="https://img.icons8.com/color/96/gmail-new.png" alt="Email"/>
 </a>
+
 
 </div>
 
@@ -283,6 +402,6 @@ Collaborated in building real-world AI solutions including:
 
 ### 💡 "Transforming ideas into intelligent, data-driven and real-world solutions."
 
-⭐ **Explore my repositories and follow my journey in AI, Data and Web Development.**
+### ⭐ Explore my repositories and follow my journey in AI, Data and Web Development.
 
 </div>
